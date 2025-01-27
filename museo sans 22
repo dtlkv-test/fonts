@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Museo Slab';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://fonts.cdnfonts.com/s/57462/Museo_Slab_700.woff') format('woff');
+}
